@@ -1,22 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0bfb8f9-5c5d-4fd9-9632-baafe295c8c1" name="Default Changelist" comment="" />
+    <list default="true" id="a0bfb8f9-5c5d-4fd9-9632-baafe295c8c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/.bin/cleancss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/.bin/cleancss.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/bin/cleancss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/clean.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/clean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/colors/hex-name-shortener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/colors/hsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/colors/rgb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/imports/inliner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/break-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/can-override.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/compactable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/every-combination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/has-inherit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/invalid-property-error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/optimizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/override-compactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/populate-components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/remove-unused.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/restore-from-optimizing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/restore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/shorthand-compactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/vendor-prefixes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/properties/wrap-for-optimizing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/advanced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/clean-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/extractor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/is-special.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/merge-adjacent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/merge-media-queries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/merge-non-adjacent-by-body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/merge-non-adjacent-by-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/reduce-non-adjacent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/remove-duplicate-media-queries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/remove-duplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/reorderable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/restructure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/selectors/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/source-maps/track.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/stringifier/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/stringifier/one-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/stringifier/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/stringifier/source-maps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/text/comments-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/text/escape-store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/text/expressions-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/text/free-text-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/text/urls-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/tokenizer/extract-properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/tokenizer/extract-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/tokenizer/tokenize.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/tokenizer/tokenize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/urls/rebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/urls/reduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/urls/rewrite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/compatibility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/input-source-map-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/quote-scanner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/source-reader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/source-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/split.js" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/lib/utils/split.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/clean-css/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/clean-css/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/source-map/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/assert-shim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/mini-require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/prefix-source-map.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/prefix-utils.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/suffix-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/suffix-source-map.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/suffix-utils.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/test-prefix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/build/test-suffix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/lib/source-map/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/node_modules/source-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/node_modules/source-map/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cleancss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cleancss.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/bin/cleancss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/clean.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/lib/clean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/colors/hex-name-shortener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/colors/hsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/colors/rgb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/imports/inliner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/break-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/can-override.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/compactable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/every-combination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/has-inherit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/invalid-property-error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/optimizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/override-compactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/populate-components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/remove-unused.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/restore-from-optimizing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/restore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/shorthand-compactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/vendor-prefixes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/properties/wrap-for-optimizing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/advanced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/clean-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/extractor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/is-special.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/merge-adjacent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/merge-media-queries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/merge-non-adjacent-by-body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/merge-non-adjacent-by-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/reduce-non-adjacent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/remove-duplicate-media-queries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/remove-duplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/reorderable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/restructure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/selectors/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/source-maps/track.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/stringifier/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/stringifier/one-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/stringifier/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/stringifier/source-maps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/text/comments-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/text/escape-store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/text/expressions-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/text/free-text-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/text/urls-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/tokenizer/extract-properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/tokenizer/extract-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/tokenizer/tokenize.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/lib/tokenizer/tokenize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/urls/rebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/urls/reduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/urls/rewrite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/compatibility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/input-source-map-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/quote-scanner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/source-reader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/source-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/split.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/lib/utils/split.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/clean-css/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/clean-css/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nodemon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/nodemon/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/source-map/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/assert-shim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/mini-require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/prefix-source-map.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/prefix-utils.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/suffix-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/suffix-source-map.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/suffix-utils.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/test-prefix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/build/test-suffix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/source-map/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1S9pM1J3pIjVeRma20vZLlyhcke" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.12.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -48,10 +235,22 @@
       <workItem from="1570985614450" duration="2385000" />
       <workItem from="1570988583540" duration="1084000" />
       <workItem from="1570995151059" duration="7160000" />
+      <workItem from="1571002809988" duration="231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
