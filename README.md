@@ -20,10 +20,11 @@ Past aims:
  <li>Setup.</li>
  <li>Get a general understanding of the file structure of the template.</li>
  <li>Get a general understanding of what the code in the template does.</li>
+ <li>Get good at RWD, webpage layout and buttons.</li>
 </ol>
 
 Current aim:
- Get good at RWD, webpage layout and buttons.
+Finish profile card 
 
 Future aims:
 <ol>
