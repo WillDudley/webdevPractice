@@ -1,6 +1,5 @@
 # webdevPractice
  Casually practicing...
-All images are my own.
 
 
 <ul>
@@ -21,14 +20,15 @@ Past aims:
  <li>Get a general understanding of the file structure of the template.</li>
  <li>Get a general understanding of what the code in the template does.</li>
  <li>Get good at RWD, webpage layout and buttons.</li>
+ <li>Finish profile card. </li>
 </ol>
 
 Current aim:
-Finish profile card 
+Implement multiple pages.
 
 Future aims:
 <ol>
- <li>Implement multiple pages.</li>
+ <li>Write out past projects and ethos</li>
  <li>Learn/implement Coffeescript (for fun!).</li>
  <li>Implement images with interactions/animations.</li>
 </ol>
