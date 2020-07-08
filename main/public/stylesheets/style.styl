@@ -1,0 +1,109 @@
+*
+  box-sizing: border-box
+
+
+/* Style the body */
+body
+  font-family Arial, Helvetica, sans-serif
+  color #000000
+  background-image url("/images/cubes.png")
+  margin: 0
+
+
+/* Style the top navigation bar */
+/*nav
+  overflow: hidden
+  position relative
+  top 0
+  right 0
+  //background-color: #333
+  a
+    float right
+    display block
+    color #000000
+    text-align center
+    padding 14px 20px
+    text-decoration none
+    background-color rgba(252, 242, 255, 0.6)
+
+  a.active
+    background-color rgba(95,70,255,0.71)
+
+
+    !* hover *!
+    &:hover
+      background-color #5f46ff
+      color black*/
+
+
+/* Column container */
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  justify-content center
+  align-content center
+  align-items center
+}
+
+.column
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  flex-direction column
+  justify-content center
+  align-content center
+  align-items center
+
+/* Create two unequal columns that sits next to each other */
+
+.header
+  height 200px
+
+/* Main column */
+main {
+  min-width 500px
+  width 50vw
+  min-height 1000px
+  // background-color: white;
+  padding: 20px;
+  padding-top 400px
+  background-color rgba(255,230,230,0.71)
+}
+
+/* Sidebar/right column */
+aside {
+  width 300px
+  min-height 1000px
+  // background-color: #f1f1f1;
+  padding:0px;
+}
+
+/* Footer */
+.footer {
+  height 200px
+  padding: 20px;
+  text-align: center;
+  //background: #ddd;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .row {
+    flex-direction: column;
+  }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  nav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+.card
+  background-color white
+
